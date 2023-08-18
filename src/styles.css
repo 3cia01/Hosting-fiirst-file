@@ -118,9 +118,9 @@ h2 {
 
 .col {
   display: inline-block;
-  line-height: 35px;
+  line-height: 20px;
   margin: 0px;
-  border-radius: 8px;
+  border-radius: 5px;
   text-align: center;
 }
 
